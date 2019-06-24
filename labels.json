@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Priority: Critical",
+    "color": "#e11d21"
+  },
+  {
+    "name": "Priority: High",
+    "color": "#eb6420"
+  },
+  {
+    "name": "Priority: Low",
+    "color": "#009800"
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "#f9ae75"
+  },
+  {
+    "name": "Status: Abandoned",
+    "color": "#000000"
+  },
+  {
+    "name": "Status: Accepted",
+    "color": "#009800"
+  },
+  {
+    "name": "Status: Available",
+    "color": "#bfe5bf"
+  },
+  {
+    "name": "Status: Blocked",
+    "color": "#e11d21"
+  },
+  {
+    "name": "Status: Completed",
+    "color": "#006b75"
+  },
+  {
+    "name": "Status: In Progress",
+    "color": "#cccccc"
+  },
+  {
+    "name": "Status: On Hold",
+    "color": "#e11d21"
+  },
+  {
+    "name": "Status: Pending",
+    "color": "#fef2c0"
+  },
+  {
+    "name": "Status: Review Needed",
+    "color": "#fbca04"
+  },
+  {
+    "name": "Status: Revision Needed",
+    "color": "#e11d21"
+  },
+  {
+    "name": "Type: Bug",
+    "color": "#e11d21",
+    "aliases": [
+      "bug"
+    ]
+  },
+  {
+    "name": "Type: Feature",
+    "color": "#d4c5f9",
+    "aliases": [
+      "feature","enhancement"
+    ]
+  },
+  {
+    "name": "Type: Maintenance",
+    "color": "#0e8a16",
+    "aliases": [
+      "greenkeeper",
+      "maintenance"
+    ]
+  },
+  {
+    "name": "Type: Question",
+    "color": "#cc317c"
+  },
+  {
+    "name": "Type: Task",
+    "color": "#c5def5"
+  },
+  {
+    "name": "Type: Documentation",
+    "color": "5319e7",
+    "aliases": [
+      "documents",
+      "document"
+    ]
+  },
+  {
+    "name": "Type: Breaking Change",
+    "color": "b60205",
+    "aliases": [
+      "breaking",
+      "breaking-change"
+    ]
+  },
+  {
+    "name": "Type: Refactoring",
+    "color": "fbca04",
+    "aliases": [
+      "refactor"
+    ]
+  },
+  {
+    "name": "Type: Question",
+    "color": "cc317c",
+    "aliases": [
+      "question"
+    ]
+  },
+  {
+    "name": "Type: Testing",
+    "color": "2e8011",
+    "aliases": [
+      "test",
+      "testing"
+    ]
+  },
+  {
+    "name": "duplicate",
+    "color": "#cfd3d7"
+  },
+  {
+    "name": "epic: 운동입력",
+    "color": "#f9c2d4"
+  },
+  {
+    "name": "epic: 음식입력",
+    "color": "#e99695"
+  },
+  {
+    "name": "epic: 피드백 그래프",
+    "color": "#5319e7"
+  },
+  {
+    "name": "epic: 회원 가입 및 로그인",
+    "color": "#598fcc"
+  },
+  {
+    "name": "good first issue",
+    "color": "#7057ff"
+  },
+  {
+    "name": "help wanted",
+    "color": "#008672"
+  },
+  {
+    "name": "invalid",
+    "color": "#e4e669"
+  },
+  {
+    "name": "wontfix",
+    "color": "#ffffff"
+  }
+]
