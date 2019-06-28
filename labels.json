@@ -128,22 +128,6 @@
     "color": "#cfd3d7"
   },
   {
-    "name": "epic: 운동입력",
-    "color": "#f9c2d4"
-  },
-  {
-    "name": "epic: 음식입력",
-    "color": "#e99695"
-  },
-  {
-    "name": "epic: 피드백 그래프",
-    "color": "#5319e7"
-  },
-  {
-    "name": "epic: 회원 가입 및 로그인",
-    "color": "#598fcc"
-  },
-  {
     "name": "good first issue",
     "color": "#7057ff"
   },
